@@ -1,0 +1,26 @@
+{
+  "BOTNAME": "Luke",
+  "ADMIN": [
+    "100011316816555"
+  ],
+  "PREFIX": "/",
+  "crons": true,
+  "noPrefix": true,
+  "logEvent": false,
+  "seflListen": false,
+  "language": "en",
+  "spotify": {
+    "id": "6af87a228e954442a565f31c20bfb8e1",
+    "sec": "a6b87746ac43418d86174b8025f4299e"
+  },
+  "rapidapi": "e712ba46admsh2861ddc6dbd65b2p18b26ajsn09208fae3a3c",
+  "imgur": "d7d25aaef839c9c",
+  "removebg": "C1KBaQNKcMGEQxVPftR2jpVn",
+  "openai": "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",
+  "otherBot": [
+    "100090764839215",
+    "100068170952047",
+    "100076436918401",
+    "100083767489938"
+  ]
+}
