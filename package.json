@@ -1,12 +1,12 @@
 {
-  "name": "muichiro-bot",
+  "name": "muichiro-messenger-bot",
   "version": "12.3.5",
   "description": "A Messenger Bot For Everyone",
   "main": "muichiro.js",
   "scripts": {
     "start": "node muichiro.js"
   },
-  "author": "Muichiro Senpai",
+  "author": "John Marky Natividad",
   "license": "MIT",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
