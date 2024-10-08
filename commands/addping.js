@@ -10,7 +10,6 @@ module.exports.config = {
 module.exports.start = async function({ event, api }) {
   try {
     let msg = global.msg;
-    if (!msg) msg = `https://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co`;
     const isUrlValid = global.events.isUrlValid(msg);
     if (!isUrlValid) return api.sendMessage("Not A Valid Link!", event.threadID, event.messageID)
     const axios = require("axios"),
